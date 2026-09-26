@@ -14,7 +14,7 @@ This blog is where I share hands-on write-ups from the field: malware analysis, 
 
 My career began in the networks of the **Belgian Ministry of Defence**, first as a network technician and then as a cybersecurity analyst within the **Belgian Cyber Command**, investigating advanced threats on classified environments, including suspected state-sponsored activity.
 
-I then moved into incident response, handling **50+ incidents**, including several large-scale ransomware attacks. Today I work in the financial sector, within a European incident response SOC.
+I then moved into incident response, handling **50+ incidents**, including several large-scale ransomware attacks. Today I work in the financial sector, within a global incident response team.
 
 I've also defended 5,000+ systems at **Locked Shields**, the world's largest live-fire cyber defence exercise, and served on the **EU Cyber Rapid Response Teams (CRRT)**.
 
