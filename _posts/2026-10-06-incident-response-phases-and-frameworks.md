@@ -27,7 +27,7 @@ The current revision, published in April 2025, changed approach: it maps inciden
 ![NIST SP 800-61r3 incident response model based on the CSF 2.0 functions](/assets/img/posts/ir-frameworks/nist-800-61r3.svg){: w="900" h="470" }
 _Preparation (Govern, Identify, Protect), incident response (Detect, Respond, Recover) and continuous improvement in between. Adapted from NIST SP 800-61r3, Fig. 2._
 
-**In practice:** useful to align incident response with the rest of the security programme, but deliberately not a step-by-step guide for responders.
+**In practice:** it ties incident response to the rest of the security programme and tells you what needs to be in place. NIST deliberately left the detailed procedures out, because they change too fast for a static document, so you won't find a case-handling playbook in it.
 
 ## 2. ISO/IEC 27035: the international standard
 
@@ -36,7 +36,7 @@ The ISO series dedicated to information security incident management, with parts
 ![The five phases of the ISO/IEC 27035-1 incident management process](/assets/img/posts/ir-frameworks/iso27035.svg){: w="760" h="620" }
 _The ISO/IEC 27035-1:2023 incident management process._
 
-**In practice:** the natural reference for ISO 27001-certified organisations. You'll meet it in policies, audits and contracts more than in the war room.
+**In practice:** the natural reference for ISO 27001-certified organisations. It describes a generic process that each organisation tailors, so responders usually feel it through their own procedures, escalation rules and reporting, rather than by reading the standard during a case.
 
 ## 3. PICERL: the classic responder's model
 
@@ -68,7 +68,7 @@ _The DAIR model. Figure from Joshua Wright, *Dynamic Incident Response*, [CC BY 
 | Scope, Contain, Eradicate, Recover (loop) | Containment, Eradication, Recovery | Respond | Respond, Recover |
 | Debrief | Lessons Learned | Learn lessons | Identify (improvement) |
 
-Same work, different vocabulary. Whatever model your organisation uses officially, what matters is that everyone on the team speaks the same one during an incident.
+Same work, different vocabulary. These models aren't competitors: NIST and ISO frame how an organisation governs incident response, while PICERL and DAIR describe how responders actually work a case. The DAIR book even maps its steps to the CSF 2.0 functions, so a team can work in DAIR and still report against NIST. Whatever model your organisation uses officially, what matters is that everyone on the team speaks the same one during an incident.
 
 ---
 
