@@ -178,7 +178,7 @@ Shared infrastructure fails in the same way as an untested backup: you find out 
 
 ---
 
-**Next:** the Prepare step isn't only about tools. The next post covers the **policy, plan and communication** side of preparation: who decides, who is informed, and how, before the first alert.
+**Next:** with the tools, the logs and the infrastructure in place, we leave Prepare and move on to the next DAIR step: **Detect**.
 
 ### References
 
