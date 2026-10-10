@@ -197,7 +197,7 @@ To go one step further, replay a simple attack scenario in a test environment: a
 
 ---
 
-**Next: the shared infrastructure** that lets a whole team investigate together: Velociraptor server, case management, shared timeline and evidence storage.
+**Next: the shared infrastructure** that lets a whole team investigate together: Velociraptor server, case management, shared timeline and threat intelligence, behind a VPN.
 
 ### References
 
