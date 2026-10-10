@@ -1,6 +1,6 @@
 ---
 title: "DAIR Prepare, Part 3: Shared Infrastructure"
-date: 2026-10-27 09:00:00 +0200
+date: 2026-10-26 09:00:00 +0100
 categories: [Incident Response, DAIR]
 tags: [dfir, incident-response, dair, preparation, opnsense, fortigate, velociraptor, dfir-iris, thehive, timesketch, misp, traefik]
 description: "One analyst can work from a laptop. A team needs shared infrastructure: remote collection, case management, a common timeline and threat intelligence, reachable safely and ready before the call comes in."
