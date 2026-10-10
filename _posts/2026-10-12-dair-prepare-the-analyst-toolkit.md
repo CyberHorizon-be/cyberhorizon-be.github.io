@@ -1,6 +1,6 @@
 ---
 title: "DAIR Prepare, Part 1: The Analyst's Toolkit"
-date: 2026-10-13 09:00:00 +0200
+date: 2026-10-12 09:00:00 +0200
 categories: [Incident Response, DAIR]
 tags: [dfir, incident-response, dair, preparation, tooling, velociraptor, kape, volatility]
 description: "The first DAIR step, from the responder's chair: the collection and analysis tools I keep ready before the call comes in, with a free alternative for each."
