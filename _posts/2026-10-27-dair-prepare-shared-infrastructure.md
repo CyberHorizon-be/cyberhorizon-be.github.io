@@ -178,7 +178,7 @@ Shared infrastructure fails in the same way as an untested backup: you find out 
 
 ---
 
-**Next:** with the tools, the logs and the infrastructure in place, we leave Prepare and move on to the next DAIR step: **Detect**.
+**Next:** tools, logs and infrastructure are only as good as the people using them. The next post covers **training and exercises**: building the team's skills and testing them before a real incident does.
 
 ### References
 
