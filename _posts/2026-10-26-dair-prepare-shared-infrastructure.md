@@ -178,7 +178,7 @@ Shared infrastructure fails in the same way as an untested backup: you find out 
 
 ---
 
-**Next:** tools, logs and infrastructure are only as good as the people using them. The next post covers **training and exercises**: building the team's skills and testing them before a real incident does.
+**Next:** tools, logs and infrastructure are only as good as the people using them. The next post covers **training**: where to learn, how to practise, and which certifications and conferences are worth your time.
 
 ### References
 
