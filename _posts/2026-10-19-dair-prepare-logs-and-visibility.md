@@ -1,6 +1,6 @@
 ---
 title: "DAIR Prepare, Part 2: Logs and Visibility"
-date: 2026-10-20 09:00:00 +0200
+date: 2026-10-19 09:00:00 +0200
 categories: [Incident Response, DAIR]
 tags: [dfir, incident-response, dair, preparation, logging, siem, sysmon, auditd]
 description: "No tool can recover what was never recorded. The logs to enable before an incident, endpoints first, and why a SIEM is what keeps them long enough to matter."
